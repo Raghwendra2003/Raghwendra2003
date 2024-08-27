@@ -1,6 +1,6 @@
 👋 Hi, I’m @Raghwendra2003
 
-👀 I’m interested in [**Web Development**, **Data Science**, **AI**, **Machine Learning**, and **Cybersecurity**]
+👀 I’m interested in **Web Development**, **Data Science**, **AI**, **Machine Learning**, and **Cybersecurity**
 
 🌱 I’m currently learning [add what you're specifically focusing on right now, e.g., advanced machine learning techniques]
 
@@ -8,7 +8,7 @@
 
 📫 How to reach me:
 - Email: singhraghwendra571@gmail.com
-- LinkedIn: [Raghwendra Pratap Singh](https://www.linkedin.com/in/raghwendra-pratap-singh)
+- LinkedIn: [Raghwendra Pratap Singh](https://www.linkedin.com/in/raghwendra-pratap-singh-03a97922b/)
 
 😄 Pronouns: he/him
 
